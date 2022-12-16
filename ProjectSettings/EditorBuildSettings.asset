@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Frozen scene/Frozen.unity
+    guid: d2942df83ca2b6f43b2e9dc49961793d
+  - enabled: 1
+    path: Assets/Scenes/Hell scene/Hell.unity
+    guid: 4e9d42f7e5f1e0b49921ded156ebe0ef
+  - enabled: 1
+    path: Assets/Scenes/Daily scene/Daily.unity
+    guid: c144a7e1a8fe86e42a39fe7e3b42582e
   m_configObjects: {}
