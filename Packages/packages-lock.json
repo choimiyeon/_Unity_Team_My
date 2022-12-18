@@ -41,19 +41,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-    "com.unity.postprocessing": {
-      "version": "3.1.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.physics": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-<<<<<<< HEAD
-=======
->>>>>>> parent of 5100f03 (Merge branch 'main' into yurim)
     "com.unity.probuilder": {
       "version": "4.5.2",
       "depth": 0,
@@ -63,8 +50,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.quicksearch": {
       "version": "2.0.2",
       "depth": 0,
@@ -72,9 +57,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
->>>>>>> parent of 5100f03 (Merge branch 'main' into yurim)
-=======
->>>>>>> parent of 863c40b (waterfall)
     "com.unity.services.core": {
       "version": "1.0.1",
       "depth": 1,
