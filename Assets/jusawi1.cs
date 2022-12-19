@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class jusawi : MonoBehaviour
+public class jusawi1 : MonoBehaviour
 {
     Vector3 v0, v1, v2, v3;
     Vector3[] newVertices;
